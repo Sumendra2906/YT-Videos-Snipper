@@ -23,8 +23,8 @@ docker-compose up
 
 ## Screenshots
 <p align="center">
-  <img src="https://github.com/9643kavinder/YT-Videos-Snipper/blob/main/screenshots/2.png" />
+  <img src="https://github.com/Sumendra2906/YT-Videos-Snipper/blob/main/screenshots/2.png" />
  </p>
  <p align="center">
-  <img src="https://github.com/9643kavinder/YT-Videos-Snipper/blob/main/screenshots/1.png"/>
+  <img src="https://github.com/Sumendra2906/YT-Videos-Snipper/blob/main/screenshots/1.png"/>
  </p>
