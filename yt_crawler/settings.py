@@ -136,10 +136,7 @@ REST_FRAMEWORK = {
 """
 Google Client Api Keys
 """
-API_KEYS = ['AIzaSyBImfXSNDujxH17EtP2xDy-VhBS_O5FXzg',
-            'AIzaSyC247ZSl-MyBAHQz0h_wCJ5qokKYRX4ZS0',
-            'AIzaSyAwXZs2stqZaSyfi8n2PG7tfYr_mjstyA0'
-        ]
+API_KEYS = env.apikey
 
 
 CELERY_BROKER_URL = os.environ.get("CELERY_BROKER", "redis://redis:6379/0")
